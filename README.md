@@ -1,4 +1,4 @@
-# lolvis
+# lolvisualization
 
 ## Project setup
 ```
