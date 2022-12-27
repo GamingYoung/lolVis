@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@d3/parallel-coordinates": "https://api.observablehq.com/@d3/parallel-coordinates@172.tgz?v=3",
+    "@observablehq/runtime": "^5.3.1",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.12",
     "vue": "^2.6.11",
